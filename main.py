@@ -1,3 +1,5 @@
 print('Olá, GitHub')
 
-print('Olá, dnv')
+
+for i in range(10):
+    print(i)
